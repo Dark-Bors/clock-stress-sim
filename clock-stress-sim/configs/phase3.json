@@ -1,0 +1,1 @@
+{ "phase": 3, "mode": "rf_synth", "start_freq_mhz": 500, "stop_freq_mhz": 2500 }

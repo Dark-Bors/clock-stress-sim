@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.log
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# ESP32 Firmware
+*.elf
+*.bin
+*.map
+build/
+sdkconfig
+
+# OS
+.DS_Store
+Thumbs.db

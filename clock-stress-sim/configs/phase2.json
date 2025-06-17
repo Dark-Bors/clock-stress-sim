@@ -1,0 +1,1 @@
+{ "phase": 2, "mode": "buffered_output", "frequency_khz": 1000, "buffer_type": "74AC04" }

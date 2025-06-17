@@ -1,0 +1,1 @@
+{ "phase": 1, "mode": "sim_gpio", "frequency_khz": 1000, "duration_sec": 30 }
