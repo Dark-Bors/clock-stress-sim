@@ -14,8 +14,8 @@ The architecture is broken into three expandable phases:
 | 2     | Buffered real-clock output          | PWM/GPIO + buffer driving to DUT                        |
 | 3     | RF synthesizer + calibration engine | ADF4351 GHz clock source, TCXO reference, optional OLED |
 
-> See `docs/architecture_diagram.tex` for the full TikZ block diagram.
 
+![alt text](diagram-export-6-17-2025-2_03_18-PM.png)
 ---
 
 ## 🔧 Bill of Materials (BOM)
